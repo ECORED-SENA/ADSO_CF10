@@ -166,8 +166,6 @@ export default {
     {
       referencia:
         'Gaynor, G. (1999). Manual de gestión en tecnología: Una estrategia para la competitividad de la empresa. McGraw-Hill. ',
-      link:
-        'https://dspace.scz.ucb.edu.bo/dspace/bitstream/123456789/3171/1/2924.pdf',
     },
     {
       referencia:
@@ -350,7 +348,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Yuli Marcela Gómez Tarazona',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro industrial del diseño y la manufactura - Regional Santander',

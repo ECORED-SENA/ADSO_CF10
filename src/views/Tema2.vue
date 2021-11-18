@@ -12,7 +12,7 @@
         p.mb-5 A continuación, se dará el concepto de licencia de #[i software].
         figure.mb-5
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/XiXnR4mssBY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         #t_2_1
         .titulo-segundo.color-secundario
           h2 2.1 Conceptos
@@ -103,7 +103,7 @@
         .p-4.my-5
           .row.align-items-center
             .col-lg-6.mb-4.mb-lg-0
-              p La DIAN (autoridad tributaria)  podrá realizar auditorías cuando se realicen visitas a las empresas, garantizando el cumplimiento legal del #[i software] instalado en los equipos de cómputo.
+              p La #[b DIAN (autoridad tributaria)]  podrá realizar auditorías cuando se realicen visitas a las empresas, garantizando el cumplimiento legal del #[i software] instalado en los equipos de cómputo.
               p A continuación, se mencionan las penalidades por no cumplir la Ley 603 de 2000:
               ul.lista-ul--color
                 li 
@@ -118,7 +118,7 @@
                 li 
                   i.fas.fa-layer-group
                   |
-                  p.mb-0 Además, la DIAN también podrá imponer sanción por evadir impuestos procedentes de #[i software] ilegal.
+                  p.mb-0 Además, la #[b DIAN] también podrá imponer sanción por evadir impuestos procedentes de #[i software] ilegal.
             .col-lg-6
               figure
                 img(src='@/assets/curso/img19.png', style="width: 500px").m-auto
@@ -147,7 +147,7 @@
                     img(src='@/assets/curso/img21.png' alt='AvatarTop')
                 h3.text-center Licencias de #[i software] libre o #[i software] de código abierto
                 p En este tipo de licencia los desarrolladores, generalmente, dan acceso abierto al código fuente de su #[i software].
-                p Existen diferentes licencias creadas por las organizaciones, como GNU GPL (General Public License),  Licencia Pública General de GNU, que fue creada por la fundación  Free Software Foundation,  es una licencia de derecho de autor ampliamente usada en el mundo del #[i software] libre y código abierto, y avala a los usuarios finales (personas, organizaciones, compañías) la libertad de utilizar, analizar, compartir (copiar) y modificar el #[i software]. 
+                p Existen diferentes licencias creadas por las organizaciones, como GNU GPL (#[b #[i General Public License]]),  Licencia Pública General de GNU, que fue creada por la fundación  #[b #[i Free Software Foundation]],  es una licencia de derecho de autor ampliamente usada en el mundo del #[i software] libre y código abierto, y avala a los usuarios finales (personas, organizaciones, compañías) la libertad de utilizar, analizar, compartir (copiar) y modificar el #[i software]. 
                 p.mb-0 #[b Ejemplos:]
                 p Android, Mozilla, Linux, WordPress, Chromium.
               .tarjeta.color-acento-botones.p-4
@@ -155,7 +155,7 @@
                   .col-8
                     img(src='@/assets/curso/img13.svg' alt='AvatarTop' style="width: 150px").m-auto
                 p Este tipo de licencias se subdivide en otras que contienen cláusulas más específicas, como el #[i copyleft].
-                p #[b #[i Copyleft]:] se dice que el #[i copyleft] es otra versión de copyright, y básicamente es creada para la regulación de las licencias de software libre. Su función principal es evitar que algún tipo de material sea distribuido y reformado por alguien diferente a el autor del producto. Lo que hace el #[i copyleft] es impedir que el código fuente sea utilizado sin autorización y establece unas condiciones sobre las cuales puede hacerse uso del código.
+                p #[b #[i Copyleft]:] se dice que el #[i copyleft] es otra versión de copyright, y básicamente es creada para la regulación de las licencias de #[i software] libre. Su función principal es evitar que algún tipo de material sea distribuido y reformado por alguien diferente a el autor del producto. Lo que hace el #[i copyleft] es impedir que el código fuente sea utilizado sin autorización y establece unas condiciones sobre las cuales puede hacerse uso del código.
                 p #[b Licencia de #[i software] libre sin protección #[i copyleft]:] se autoriza a terceros no solo a modificar el producto sino también a que pueda licenciar con sus términos.
                 p #[b Licencia de #[i software] libre con protección #[i copyleft]:] este tipo de licencia es creada para obligar a los programadores que deseen redistribuir su código a seguir unos lineamientos y restricciones establecidas. 
               .tarjeta.color-acento-botones.p-4
@@ -191,13 +191,13 @@
           img(src='@/assets/curso/img26.png', style="width: 600px").m-auto
       .col-lg-6
         p Se refiere a todas las obras artísticas, literarias, o científicas que son protegidas por el derecho de autor durante cierto periodo de tiempo, por el solo hecho de la creación de la obra. #[span.text-deco1 La entidad DNDA (Dirección Nacional de Derechos de Autor) en Colombia es la que se encarga de proteger todas estas obras.]
-        p Cuando el software está protegido por medio del derecho de autor, se deben establecer qué usos serán permitidos realizar por parte del usuario.
+        p Cuando el #[i software] está protegido por medio del derecho de autor, se deben establecer qué usos serán permitidos realizar por parte del usuario.
         p.mb-0 Comúnmente, los usos que se autorizan son:
-    .row
+    .row.mb-5
       .col-lg-4.p-4.bg-color11
         figure.mb-4
           img(src='@/assets/curso/img14.svg', style="width: 150px").m-auto
-        p.text-white La ejecución del código del software, bien sea en dispositivos de almacenamiento o en el disco local del equipo donde se instalará el software.
+        p.text-white La ejecución del código del #[i software], bien sea en dispositivos de almacenamiento o en el disco local del equipo donde se instalará el #[i software].
       .col-lg-4.p-4.bg-color11
         figure.mb-4
           img(src='@/assets/curso/img15.svg', style="width: 150px").m-auto
@@ -205,7 +205,8 @@
       .col-lg-4.p-4.bg-color11
         figure.mb-4
           img(src='@/assets/curso/img16.svg', style="width: 150px").m-auto
-        p.text-white La posibilidad de distribución del software (realizar nuevas copias y comercializarlas a terceros).
+        p.text-white La posibilidad de distribución del #[i software] (realizar nuevas copias y comercializarlas a terceros).
+    p.mb-0 Como último, se debe tener en cuenta que los usuarios solo podrán hacer uso del #[i software] exclusivamente para los usos que se autorizaron.
 
 </template>
 

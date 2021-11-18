@@ -9,11 +9,11 @@
       h1 Fichas técnicas
     .row.mb-5
       .col-lg-6.mb-4.mb-lg-0
-        p Una ficha técnica es un documento en el que se detallan las características o funciones de un software desarrollado. Funciona como una herramienta para transmitir los datos más relevantes sobre un tema específico.
+        p Una #[b ficha técnica] es un documento en el que se detallan las características o funciones de un #[i software] desarrollado. Funciona como una herramienta para transmitir los datos más relevantes sobre un tema específico.
         p Contiene información resumida y de utilidad, que varía según la finalidad y tipo de ficha.
         .cajon.color-primario.p-4
           p La ficha técnica es una herramienta de gran utilidad a la hora de comercializar o dar a conocer un bien o servicio. Es importante que contenga información fidedigna, que aporte datos claros y exactos. 
-          p.mb-0 Documento que reúne las características de los productos de software desarrollados.
+          p.mb-0 Documento que reúne las características de los productos de #[i software] desarrollados.
       .col-lg-6
         figure(data-aos="fade-left")
           img(src='@/assets/curso/img27.png', style="width: 600px").m-auto
@@ -25,7 +25,7 @@
         figure
           img(src='@/assets/curso/img28.png', style="width: 200px").m-auto
       .col-9.p-4.bg-color12
-        p Para la elaboración de la ficha técnica, se debe apoyar en las normatividades. En este caso, se realizará la ficha técnica tomando como referencia la norma NTC ISO 9000 Sistema de Gestión de Calidad.
+        p Para la elaboración de la ficha técnica, se debe apoyar en las normatividades. En este caso, se realizará la ficha técnica tomando como referencia la norma #[b NTC ISO 9000 Sistema de Gestión de Calidad].
         .row.justify-content-center
           .col-10
             .tarjeta.color-primario.p-3
@@ -38,14 +38,14 @@
                       h3.mb-1.text-white Generalidades sobre ISO-9000
                       p.text-small.text-white Para profundizar sobre la norma ISO, su objetivo, finalidades y terminología, puede consultar el siguiente sitio web:
                     .col-sm-auto
-                      a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                      a.boton.color-acento-contenido.texto-blanco(href=('https://www.iso.org/obp/ui/es/#iso:std:iso:9000:ed-4:v1:es') target="_blank")
                         span(style="color: #000000 !important") Descargar
                         i.fas.fa-file-download(style="color: #000000 !important")
     separador.mb-5
     #t_3_2
     .titulo-segundo.color-secundario
       h2 3.2 Diligenciamiento
-    p.mb-5 A continuación, se realiza la descripción para el diligenciamiento de un ejemplo de una ficha técnica de productos de software.
+    p.mb-5 A continuación, se realiza la descripción para el diligenciamiento de un ejemplo de una ficha técnica de productos de #[i software].
     h3.mb-5 Ejemplo ficha técnica:
     .tabla-a.color-acento-botones.mb-5 
       table

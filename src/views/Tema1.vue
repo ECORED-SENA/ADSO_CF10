@@ -10,12 +10,12 @@
     .bloque-texto-b.color-secundario.p-4.mb-5
       .bloque-texto-b__texto.mb-4
         i.fas.fa-quote-left
-        p.mb-0 Can Es el estudio de las características que tienen en común los sistemas; su aplicación se enfoca en los sistemas automatizados.
+        p.mb-0 Es el estudio de las características que tienen en común los sistemas; su aplicación se enfoca en los sistemas automatizados.
         i.fas.fa-quote-right
       .bloque-texto-d__autor
         .row
           .col-12.d-inline-flex.justify-content-end.align-items-center
-            p.mb-0 #[b  (Maida y Pacienzia, 2015).]
+            p.mb-0 #[b (Bertalanffy, 1968).]
             .cuadro
     figure.mb-5(data-aos="fade-left")
       img(src='@/assets/curso/img1.png', style="width: auto").m-auto
@@ -59,10 +59,10 @@
           .col-lg-11
             figure.mb-5
               img(src='@/assets/curso/img1.svg').img-position1
-            p.text-white #[b Según Arnold y Rodríguez (1990)], la Teoría General de Sistemas (TGS) se presenta como un ejemplo de representación científica. En sus selecciones conceptuales, no hay definiciones o relaciones con contenidos preestablecidos, pero la observación sí se puede dirigir con referencia a ellas, haciéndola aplicar en contextos identificables.
+            p.text-white La Teoría General de Sistemas (TGS) se presenta como un ejemplo de representación científica. En sus selecciones conceptuales, no hay definiciones o relaciones con contenidos preestablecidos, pero la observación sí se puede dirigir con referencia a ellas, haciéndola aplicar en contextos identificables.
             .row.mb-5
               .col-12.d-inline-flex.justify-content-end.align-items-center
-                p.mb-0.text-white #[b  (Maida y Pacienzia, 2015).]
+                p.mb-0.text-white #[b (Arnold y Rodríguez, 1990).]
                 .cuadro
     .row.justify-content-center
       .col-10
@@ -107,11 +107,11 @@
                     .row
                       .col-12.bg-white
                         .p-4
-                          p #[b Sistema:] Se trata de un grupo organizado, compuesto por partes que son independientes,  que interactúan  y se relacionan formando un todo
-                          p #[b Relación:] Es básicamente visualizada como la estructuración de una red.
-                          p #[b Ambiente:] Hace referencia a las condiciones y hechos  que influyen sobre el comportamiento del sistema. 
-                          p #[b Atributo:] Son las propiedades y características funcionales que definen las partes de un sistema. 
-                          p.mb-0 #[b Energía:] La cantidad de energía que se mantiene en un sistema es igual a la de la suma de la energía importada menos la suma de la exportada.
+                          p #[b Sistema:] se trata de un grupo organizado, compuesto por partes que son independientes,  que interactúan  y se relacionan formando un todo
+                          p #[b Relación:] es básicamente visualizada como la estructuración de una red.
+                          p #[b Ambiente:] hace referencia a las condiciones y hechos  que influyen sobre el comportamiento del sistema. 
+                          p #[b Atributo:] son las propiedades y características funcionales que definen las partes de un sistema. 
+                          p.mb-0 #[b Energía:] la cantidad de energía que se mantiene en un sistema es igual a la de la suma de la energía importada menos la suma de la exportada.
                 .col-lg-4.d-none.d-lg-block
                   figure
                     img(src='@/assets/curso/img7.png', style="width: 400px").m-auto
@@ -127,11 +127,11 @@
                     .row
                       .col-12.bg-white
                         .p-4
-                          p #[b Entropía:] Se trata de la máxima probabilidad de los sistemas en su consecutiva desorganización y su homogeneización con el ambiente.
-                          p #[b Equifinalidad:] Consiste en que un sistema, iniciando con diferentes condiciones iniciales y por diferentes caminos, llegue a un mismo estado final.
-                          p #[b Equilibrio:] Cuando los estados de equilibrio son alcanzados en sistemas abiertos por diversos caminos, se denomina equifinalidad. Mantener el equilibrio implica importación de recursos del ambiente.
-                          p #[b Emergencia:] Cuando se realiza descomposición de sistemas en unidades menores, hasta el límite, se denomina emergencia.
-                          p.mb-0 #[b Elemento:] Las partes o componentes que constituyen un sistema son llamadas elementos. Por ejemplo, objetos o procesos que son organizados en modelos.
+                          p #[b Entropía:] se trata de la máxima probabilidad de los sistemas en su consecutiva desorganización y su homogeneización con el ambiente.
+                          p #[b Equifinalidad:] consiste en que un sistema, iniciando con diferentes condiciones iniciales y por diferentes caminos, llegue a un mismo estado final.
+                          p #[b Equilibrio:] cuando los estados de equilibrio son alcanzados en sistemas abiertos por diversos caminos, se denomina equifinalidad. Mantener el equilibrio implica importación de recursos del ambiente.
+                          p #[b Emergencia:] cuando se realiza descomposición de sistemas en unidades menores, hasta el límite, se denomina emergencia.
+                          p.mb-0 #[b Elemento:] las partes o componentes que constituyen un sistema son llamadas elementos. Por ejemplo, objetos o procesos que son organizados en modelos.
         .carousel-item
           .row
             .col-12.bg-color4
@@ -141,11 +141,11 @@
                     .row
                       .col-12.bg-white
                         .p-4
-                          p #[b Frontera:] Es aquella que permite separar al sistema de su entorno, definiendo lo que pertenece y lo que no.
-                          p #[b Estructura:] Cuando las partes más o menos estables tienen interrelaciones que pueden ser identificadas en un momento dado, a esto se le llama estructura del sistema.
-                          p #[b Función:] El output del sistema es denominado función, enfocada en mantener el sistema mayor en el que está inscrito.
-                          p #[b Cibernética:] Permite la retroalimentación  de los procesos de control y de comunicación, igual en máquinas que en seres vivos (Wiener, 1979).
-                          p #[b Circularidad:] Es el proceso de retroalimentación y metamorfosis, donde se refieren procesos de causa, así como cuando A causa a B y B causa C, pero se causa A.
+                          p #[b Frontera:] es aquella que permite separar al sistema de su entorno, definiendo lo que pertenece y lo que no.
+                          p #[b Estructura:] cuando las partes más o menos estables tienen interrelaciones que pueden ser identificadas en un momento dado, a esto se le llama estructura del sistema.
+                          p #[b Función:] el #[i output] del sistema es denominado función, enfocada en mantener el sistema mayor en el que está inscrito.
+                          p #[b Cibernética:] permite la retroalimentación  de los procesos de control y de comunicación, igual en máquinas que en seres vivos (Wiener, 1979).
+                          p #[b Circularidad:] es el proceso de retroalimentación y metamorfosis, donde se refieren procesos de causa, así como cuando A causa a B y B causa C, pero se causa A.
                 .col-lg-4.d-none.d-lg-block
                   figure
                     img(src='@/assets/curso/img9.png', style="width: 400px").m-auto
@@ -161,11 +161,11 @@
                     .row
                       .col-12.bg-white
                         .p-4
-                          p #[b Complejidad:] Permite indicar el número de elementos de un sistema (complejidad cuantitativa) y sus posibles interacciones (conectividad.)
-                          p #[b Conglomerado:] Se dice que si la suma de las partes, componentes y atributos en un conjunto es igual al todo, se trata de un conglomerado (Johannsen, 1975).
-                          p #[b Homeóstasis:] Se refiere a los organismos vivos en sistemas adaptables.
-                          p #[b Información:] Se dice que la información es la corriente más importante con la que cuentan los sistemas complejos. 
-                          p #[b Input/output:] Se trata de la elaboración de procesos de  entradas y elaboraciones de salidas de un sistema.
+                          p #[b Complejidad:] permite indicar el número de elementos de un sistema (complejidad cuantitativa) y sus posibles interacciones (conectividad.)
+                          p #[b Conglomerado:] se dice que si la suma de las partes, componentes y atributos en un conjunto es igual al todo, se trata de un conglomerado (Johannsen, 1975).
+                          p #[b Homeóstasis:] se refiere a los organismos vivos en sistemas adaptables.
+                          p #[b Información:] se dice que la información es la corriente más importante con la que cuentan los sistemas complejos. 
+                          p #[b #[i Input/output]:] se trata de la elaboración de procesos de  entradas y elaboraciones de salidas de un sistema.
         .carousel-item
           .row
             .col-12.bg-color4
@@ -175,12 +175,12 @@
                     .row
                       .col-12.bg-white
                         .p-4
-                          p #[b Input:] Se refiere a la recolección de recursos de su ambiente para dar inicio a las actividades del sistema.
-                          p #[b Output:] Son las corrientes de salida de un sistema.
+                          p #[b #[i Input]:] se refiere a la recolección de recursos de su ambiente para dar inicio a las actividades del sistema.
+                          p #[b #[i Output]:] son las corrientes de salida de un sistema.
                           p #[b Organización:] Wiener se refiere a la organización como “una dependencia de las distintas partes organizadas” (Buckley, 1970, p. 127).
-                          p #[b Modelo:] Permite identificar y mensurar relaciones sistemáticas complejas.
-                          p #[b Morfogénesis:] Se caracteriza por modificar o crear sus formas, con el objeto de conservarse viable.
-                          p #[b Morfostasis:] Se trata de los procesos de intercambio que se hacen con el ambiente para preservar una organización en un estado determinado.
+                          p #[b Modelo:] permite identificar y mensurar relaciones sistemáticas complejas.
+                          p #[b Morfogénesis:] se caracteriza por modificar o crear sus formas, con el objeto de conservarse viable.
+                          p #[b Morfostasis:] se trata de los procesos de intercambio que se hacen con el ambiente para preservar una organización en un estado determinado.
                 .col-lg-4.d-none.d-lg-block
                   figure
                     img(src='@/assets/curso/img11.png', style="width: 400px").m-auto
@@ -196,12 +196,13 @@
                     .row
                       .col-12.bg-white
                         .p-4
-                          p #[b Observación:] Incorpora el problema de la observación de sistemas de observadores.
-                          p #[b Recursividad:] Hace referencia a incluir los resultados de las operaciones de un sistema en el mismo sistema.
-                          p #[b Retroalimentación:] Es cuando un sistema abierto recoge información estudiando los efectos de sus decisiones.
-                          p #[b Sinergia:] Es una consecuencia, un fenómeno que nace de las interacciones entre las partes de un sistema.
-                          p #[b Variabilidad:] Muestra el número máximo de relaciones posibles.
-                          p #[b] Se trata de hacer una medición de la capacidad de sobrevivencia y adaptación de un sistema.
+                          p #[b Observación:] incorpora el problema de la observación de sistemas de observadores.
+                          p #[b Recursividad:] hace referencia a incluir los resultados de las operaciones de un sistema en el mismo sistema.
+                          p #[b Retroalimentación:] es cuando un sistema abierto recoge información estudiando los efectos de sus decisiones.
+                          p #[b Sinergia:] es una consecuencia, un fenómeno que nace de las interacciones entre las partes de un sistema.
+                          p #[b Variabilidad:] muestra el número máximo de relaciones posibles.
+                          p #[b Variedad:] cantidad de elementos. Se trata del número de elementos de un sistema.
+                          p #[b Viabilidad:] se trata de hacer una medición de la capacidad de sobrevivencia y adaptación de un sistema.
       button.carousel-control-prev(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide='prev')
         span.carousel-control-prev-icon(aria-hidden='true')
         span.visually-hidden Previous
