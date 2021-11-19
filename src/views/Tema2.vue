@@ -103,7 +103,7 @@
         .p-4.my-5
           .row.align-items-center
             .col-lg-6.mb-4.mb-lg-0
-              p La #[b DIAN (autoridad tributaria)]  podrá realizar auditorías cuando se realicen visitas a las empresas, garantizando el cumplimiento legal del #[i software] instalado en los equipos de cómputo.
+              p.mt-3 La #[b DIAN (autoridad tributaria)]  podrá realizar auditorías cuando se realicen visitas a las empresas, garantizando el cumplimiento legal del #[i software] instalado en los equipos de cómputo.
               p A continuación, se mencionan las penalidades por no cumplir la Ley 603 de 2000:
               ul.lista-ul--color
                 li 

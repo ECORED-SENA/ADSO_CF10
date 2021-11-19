@@ -235,7 +235,7 @@
     .h4.mb-5 Concepto de tecnología
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/cPVTGKrwZu8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     .h4.mb-5 Clasificación de tecnología
     p.mb-5 La clasificación de la tecnología está compuesta por diferentes formas y tecnologías que se pueden encontrar en una organización, y que se agrupan según sus atributos.
     .row.mb-5
