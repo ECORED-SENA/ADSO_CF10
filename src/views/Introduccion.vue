@@ -11,7 +11,7 @@
     p.mb-5 A continuación, se presentará el video que hará una breve introducción del presente componente formativo:
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/q8Kg3vulrcc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/8AwMjIQUWFw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     .row.justify-content-center
       .col-lg-10
         .cajon.color-primario.p-4(data-aos="fade-left")
